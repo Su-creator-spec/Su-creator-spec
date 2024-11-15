@@ -16,8 +16,6 @@
 
 [![An image of @sucreatorspec's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sucreatorspec)](https://holopin.io/@sucreatorspec)
 
-## Projects ### [Project Name 1] - **Description:** Briefly describe the project and its impact. - **Technologies used:** [List of technologies] ### [Project Name 2] - **Description:** Briefly describe the project and its impact. - **Technologies used:** [List of technologies]
-
 ## 🚀 Skills
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
