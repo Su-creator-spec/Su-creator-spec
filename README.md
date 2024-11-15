@@ -9,13 +9,12 @@
 - 📫 How to reach me: shaiksumehararabbanee@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to paint and listen to music !
-
-[![An image of @sucreatorspec's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sucreatorspec)](https://holopin.io/@sucreatorspec)
-
   
 ## GSSOC(24) Badges 🪶 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard"> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" /> <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" /> <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" /> <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" /> <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a> </div>
 
-## Hacktoberfest 2023 Badge ![Hacktoberfest 2023](https://img.shields.io/badge/Hacktoberfest-2023-blue?s
+## Hacktoberfest 2023 Badge !
+
+[![An image of @sucreatorspec's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sucreatorspec)](https://holopin.io/@sucreatorspec)
 
 ## 🚀 Skills
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
