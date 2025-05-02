@@ -54,8 +54,7 @@
 - Classification and Regression Algorithms
 
 ## 📈 GitHub Stats
-![Sumehara Rabbanee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumehara&show_icons=true&theme=radical)
-
+![Sumehara Rabbanee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Su-creator-spec&show_icons=true&theme=radical)
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/johndoe/)
 - [Twitter](https://twitter.com/johndoe)
